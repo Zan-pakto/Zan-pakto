@@ -1,56 +1,35 @@
+![alt text](./images/top.svg)
+
+Hey there! I'm **Arvind Shahi** 👋  
+I love coding in **JavaScript** and **Python** 🐍. Freelancing keeps me busy, and I occasionally dive into hackathons for that extra thrill.
+
+### Fun Stuff About Me
+- Currently exploring **computer vision**  
+- Always up for **React.js collabs**  
+- Learning **Rust** (because why not?)  
+- Ask me anything about **Python** & **JavaScript**  
+- Fun fact: your face!! 😎  
+- Experienced in both **frontend & backend projects**  
+- Passionate about building **scalable & user-friendly applications**
+
+
+![alt text](./images/bottom.svg)
+
+### ☕ Let's Connect
 <p align="center">
-  <img src="header.png"/>
-</p>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hi 👋, I'm+Arvind+Shahi;Aspiring+Software+Engineer" width="auto" height="35"/>
-</p>
-
-<p align="center">
-  <img alt="coding.gif" width="300" height="auto" src="coding.gif"/>
-</p>
-</p>
-<h3 align="center">My interests</h3>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;App Development;Full Stack development" width="auto" height="35"/>
-</p>
-</p>
-<p align="center">Currently learning - MERN Stack</p>
-<p align="center">Currently working on - Private Projects</p>
-<h3 align="center">Most Wanted Language</h3>
-<p align="center">
-  <a href="https://github.com/samarjitsahoo/Python_Programming.git" target="_blank">
-    <img align="center" src="python.png" alt="Python" height="65" width="65" />
-  </a>
+  <a href="https://github.com/konhito"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://twitter.com/codewithaddy"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/konhito/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="https://www.codechef.com/users/konhito"><img src="https://img.icons8.com/bubbles/50/000000/codechef.png" alt="Codechef"/></a>
 </p>
 
-###
 
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zan-pakto&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zan-pakto&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zan-pakto&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zan-pakto&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zan-pakto&theme=transparent" height="180em" alt="Commitments"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/konhito/konhito/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/konhito/konhito/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/konhito/konhito/output/github-snake.svg" />
+</picture>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-</p>
-<h3 align="left">Connect with Me</h3>
-<p align="left">
-<div align="left">
-  <a href="https://www.linkedin.com/in/arvind-shahi-1504bb22b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Shahi_Arvind_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/arvind_shahi_569/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<!-- Made with ❤️ using GPRM -->
