@@ -17,9 +17,9 @@ I love coding in **JavaScript** and **Python** 🐍. Freelancing keeps me busy, 
 
 ### ☕ Let's Connect
 <p align="center">
-  <a href="https://github.com/konhito"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://twitter.com/codewithaddy"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/konhito/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/Zan-pakto"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://twitter.com/arvindshahi"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/arvindshahi555/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
   <a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
   <a href="https://www.codechef.com/users/konhito"><img src="https://img.icons8.com/bubbles/50/000000/codechef.png" alt="Codechef"/></a>
