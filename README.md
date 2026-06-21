@@ -1,4 +1,4 @@
-![alt text](./images/top.svg)
+![alt text](./images/top.png)
 
 Hey there! I'm **Arvind Shahi** 👋  
 I love coding in **JavaScript** and **Python** 🐍. Freelancing keeps me busy, and I occasionally dive into hackathons for that extra thrill.
